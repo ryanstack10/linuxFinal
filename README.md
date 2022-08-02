@@ -1,3 +1,3 @@
 # linuxFinal
 
-This is a final project for CSDS 377
+This is a final project for CSDS 285
